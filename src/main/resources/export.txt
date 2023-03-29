@@ -1,0 +1,10 @@
+---------Taak: Vuilnis
+Opdracht: Vuilnis weggooien
+Datum tot wanneer dit voltooid kan worden: 2023-04-05
+---------Taak: Afwas
+
+Opdrachten:
+1. Borden wassen
+2. Bestek wassen
+3. Glazen wassen
+Datum tot wanneer dit voltooid kan worden: 2023-03-30
