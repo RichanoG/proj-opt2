@@ -38,15 +38,18 @@ public class TakenExport {
 
         writer.flush();
 
+        // Schrijf eerst de gebruiker
+        writer.append(gebruiker.getGebruikerInformatie());
+
         for(Taak taak : taken) {
             index++;
 
-            // laat de index van elke taak zien als erom gevraagd wordt.
+            // laat de index van elke taak zien als erom gevraagd wordt
             if(showIndexNummers) {
 
-                writer.append("--------- [taaknr = " + index + "]");
+                writer.append("--------- [taaknr = " + index + "]\n");
             } else {
-                writer.append("---------");
+                writer.append("---------\n");
             }
 
             // append standaard taak info.

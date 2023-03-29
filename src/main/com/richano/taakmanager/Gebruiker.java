@@ -11,7 +11,7 @@ public class Gebruiker {
         String output = "";
         output += "-------" + "\n";
         output += "Gebruiker: " + naam + "\n";
-        output += "-------\n" + "\n";
+        output += "-------\n";
 
         return output;
     }

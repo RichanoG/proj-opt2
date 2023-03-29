@@ -1,10 +1,15 @@
----------Taak: Vuilnis
-Opdracht: Vuilnis weggooien
-Datum tot wanneer dit voltooid kan worden: 2023-04-05
----------Taak: Afwas
+-------
+Gebruiker: Richano
+-------
+---------
+Taak: Opdrukken
+Opdracht:  50x opdrukken
+Datum tot wanneer dit voltooid kan worden: 2023-03-30
+---------
+Taak: Gym schema
 
 Opdrachten:
-1. Borden wassen
-2. Bestek wassen
-3. Glazen wassen
+1. 25x dumbells
+2. 10x bench-press
+3. 25x chin-ups
 Datum tot wanneer dit voltooid kan worden: 2023-03-30

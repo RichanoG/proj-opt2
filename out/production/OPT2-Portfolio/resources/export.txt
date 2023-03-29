@@ -1,6 +1,12 @@
----------Taak: Vuilnis
+-------
+Gebruiker: Richano
+-------
+---------
+Taak: Vuilnis
 Opdracht: Vuilnis weggooien
-Datum tot wanneer dit voltooid kan worden: 2023-04-05---------Taak: Afwas
+Datum tot wanneer dit voltooid kan worden: 2023-04-05
+---------
+Taak: Afwas
 
 Opdrachten:
 1. Borden wassen
